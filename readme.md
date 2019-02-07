@@ -29,4 +29,7 @@ And then update the MIME database:
 update-mime-database ~/.local/share/mime
 ```
 
+When opening the filetype the next time you are asked to choose a default app.
+
+
 The detailed description can be found here [https://wiki.archlinux.org/index.php/XDG_MIME_Applications]
