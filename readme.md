@@ -6,6 +6,8 @@ They are intended to work on my own system (Dell XPS, Arch Linux with Gnome).
 Most code-files are by default recognized as plain text. So the standard application for opening .cpp, .py or .qt files is always the same.
 If you want to have a seperate default application for each of this types, you have to add a new mime type.
 
+Use [the script](https://github.com/brinoausrino/Arch-Linux-Tutorials/blob/master/createMimeType.sh) or do it manually
+
 Create an xml
 ```
 nano ~/.local/share/mime/packages/application-qt.xml
